@@ -1,0 +1,9 @@
+span {
+    border: 2px solid #d4d6d1;
+    margin: 4px 2px;
+    min-width: 2em;
+    height: 20px;
+}
+h2 {
+    text-align: center;
+}
